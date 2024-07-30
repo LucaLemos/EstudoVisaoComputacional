@@ -13,4 +13,5 @@ logs/
 .idea/
 .vscode/
 
-handTracking
+projeto_hand_tracking/
+
